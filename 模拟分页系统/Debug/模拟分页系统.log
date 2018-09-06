@@ -1,9 +1,0 @@
-﻿  TLB.cpp
-  SecondPage.cpp
-  Phymemory.cpp
-  main.cpp
-  CreateVirtual.cpp
-  正在生成代码...
-c:\users\user\desktop\16软件三班-201636043120-杨润钊\codes\模拟分页系统\main.cpp(93): warning C4715: “DOPhysicsmemory”: 不是所有的控件路径都返回值
-  模拟分页系统.vcxproj -> C:\Users\user\Desktop\16软件三班-201636043120-杨润钊\codes\模拟分页系统\Debug\模拟分页系统.exe
-  模拟分页系统.vcxproj -> C:\Users\user\Desktop\16软件三班-201636043120-杨润钊\codes\模拟分页系统\Debug\模拟分页系统.pdb (Partial PDB)
